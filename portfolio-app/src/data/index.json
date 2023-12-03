@@ -1,0 +1,67 @@
+
+{    "skills": [
+    {
+      "id": "1",
+      "src": "./img/js.png",
+      "title": "JavaScript",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+    },
+    {
+      "id": "2",
+      "src": "./img/nodejs.png",
+      "title": "Node js",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+    },
+    {
+      "id": "3",
+      "src": "./img/reactjs.png",
+      "title": "React",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+    },
+    {
+      "id": "4",
+      "src": "./img/html.png",
+      "title": "HTML",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+    },
+    {
+      "id": "4",
+      "src": "./img/css.png",
+      "title": "CSS"
+    }
+  ],
+
+
+
+
+    "portfolio": [
+        {
+          "id": "1",
+          "src": "./img/reliance_img.png",
+          "title": "Reliance Digital(Individual Project)",
+          "description": "Reliance Digital is India's largest electronics retailer , Where you can buy a large number of electronics product",
+          "link": "https://github.com/rajendra1118/ReliancedigitalProject",
+          "deploylink":"https://sensational-unicorn-4eb1f6.netlify.app/",
+          "tech":"HTMl, Css, React.js,chakra ui"
+
+        },
+        {
+          "id": "2",
+          "src": "./img/latliyai_img.png",
+          "title": "Lately (Collaborative Project)",
+          "description": "Lately is a AI website that help to write contant ,generate Social media contant through AI",
+          "link": "https://github.com/capitalN/lately.ai",
+          "deploylink":"https://6569bed9e2501f0d39df5078--luxury-conkies-b4bf9b.netlify.app/",
+          "tech":"HTMl, Css, JavaScript"
+        },
+        {
+          "id": "3",
+          "src": "./img/delicious_img.png",
+          "title": "Delicious (Collaborative Project) ",
+          "description": "Delicious is a food delivery wwebsite which offers a large range of non-veg food ",
+          "link": "https://github.com/Shivam00002/radioactive-lip-3578",
+          "deploylink":"https://subtle-piroshki-2fe672.netlify.app/",
+          "tech":"HTMl, Css, JavaScript"
+        }
+      ]
+}
